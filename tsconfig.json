@@ -21,7 +21,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "types": [
-      "@lift/design-system-react-web/dist/components",
+      
       "@testing-library/jest-dom",
       "node"
     ]

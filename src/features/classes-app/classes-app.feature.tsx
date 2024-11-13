@@ -7,3 +7,4 @@ const InternalApp: React.FC = () => {
 };
 
 export { InternalApp as ClassesApp };
+
